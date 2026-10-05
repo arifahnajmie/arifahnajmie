@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**arifahnajmie/arifahnajmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi, I'm Nur Arifah Najmie binti Ishak, a Computer Science Student.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
